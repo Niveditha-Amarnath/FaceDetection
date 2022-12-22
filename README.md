@@ -1,4 +1,4 @@
-### FaceDetection using openCV with Python
+### Face Detection using openCV with Python
 
 steps carried out:
 
